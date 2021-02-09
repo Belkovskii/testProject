@@ -1,5 +1,6 @@
 package com.testproject;
 
+import com.th3rdwave.safeareacontext.SafeAreaContextPackage;
 import android.app.Application;
 import android.content.Context;
 import android.net.Uri;
